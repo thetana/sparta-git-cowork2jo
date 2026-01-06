@@ -1,0 +1,69 @@
+{
+  "id": "example",
+  "name": "배강혁",
+  "subName": "데이터 분석가",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "데이터 분석 담당입니다.",
+    "detail": "데이터 분석을 통한 비즈니스 모델 설계 및 빅데이터 관련 업무 담당입니다."
+  },
+  "info": {
+    "description": "MySQL, Hadoop 활용합니다.",
+    "birthday": "1997.05.27",
+    "location": "서울 광진구",
+    "email": "narasarang@gmail.com",
+    "phone": "010-1234-5678"
+  },
+  "strengths": [
+    "다학제적 탐구정신",
+    "인화단결",
+    "First in Last Out"
+  ],
+  "skills": [
+    { "name": "HTML", "progress": 3 },
+    { "name": "CSS", "progress": 10 },
+    { "name": "JavaScript", "progress": 15 },
+    { "name": "React", "progress": 0 },
+    { "name": "Node.js", "progress": 0 }
+  ],
+  "licenses": [
+    "SQLD 자격증",
+    "SQLP 자격증"
+  ],
+  "education": [
+    {
+      "name": "대원고등학교",
+      "period": "2014.03.02 ~ 2016.02.14",
+      "location": "서울시 광진구"
+    },
+    {
+      "name": "세종대학교",
+      "period": "2017.03.02 ~ 2020.02.20",
+      "gpa": "4.2",
+      "location": "서울시 광진구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "6개월",
+      "company": "팀스파르타",
+      "term": "2024.01~2024.06",
+      "team": "데이터 분석 팀, 데이터 분석담당",
+      "task": "DB 유지보수",
+      "project": {
+        "name": "DB 효율화",
+        "term": "2024.01~2024.06",
+        "detail": "구형 DB 컴퓨터 교체를 통한 개선 및 성능 최적화"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "프로젝트 굿커머스",
+      "description": "커머스 고객 DB 기반 빅 데이터 분석을 통한 광고 최적화 프로그램 개발에 참여했습니다.",
+      "image": "image/p1.png",
+      "link": "project.html"
+    }
+  ]
+}
+
