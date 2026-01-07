@@ -1,0 +1,67 @@
+{
+  "id": "singasong219",
+  "name": "이지혜",
+  "subName": "백엔드 개발자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "저의 장점중에서 꼽자면 성실함이 무기입니다.",
+    "detail": "저는 성실하고 제가 하고자 마음먹은것은 열심히 합니다."
+  },
+  "info": {
+    "description": "",
+    "birthday": "1991.02.19",
+    "location": "나주시",
+    "email": "singasong219@gmail.com",
+    "phone": "010-7777-7777"
+  },
+  "strengths": [
+    "성실함",
+    "책임감",
+  ],
+  "skills": [
+    { "name": "HTML", "progress": 3 },
+    { "name": "CSS", "progress": 10 },
+    { "name": "JavaScript", "progress": 15 },
+    { "name": "React", "progress": 0 },
+    { "name": "Node.js", "progress": 0 }
+  ],
+  "licenses": [
+    "MOS Master",
+    "(국가공인)전산세무 2급",
+    "(국가공인)전산회계 1급 ",
+    "컴퓨터활용능력 1급 ",
+    "컴퓨터활용능력 2급",
+    "2종보통운전면허",
+    "보육교사 2급",
+    "사회복지사2급",
+    "정보처리기능사",
+    "워드프로세서 1급",
+    "워드프로세서 2급",
+    "워드프로세서 3급",
+    "커피바리스타2급"
+  ],
+  "education": [
+
+    {
+      "name": "스파르타 대학교",
+      "period": "2011.03.02 ~ 2017.02.20",
+      "gpa": "4.35",
+      "location": "서울시 은평구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "11개월",
+      "company": "문화재예방관리센터",
+      "term": "",
+      "team": "행정팀",
+      "task": "사무직",
+
+      }
+    }
+  ],
+
+    }
+  ]
+}
+
