@@ -1,7 +1,6 @@
 # 팀원 소개 페이지
 
 Git 커밋 협업을 통한 팀원 소개 페이지 프로젝트입니다.
-충돌 테스트 하기
 
 ![main image](image/main.png)
 
@@ -25,8 +24,8 @@ Git 커밋 협업을 통한 팀원 소개 페이지 프로젝트입니다.
 ```
 
 ### 템플릿별 역할 안내
-- **member1.json** (배강혁): 데이터 분석가 - React, JavaScript 중심
-- **member2.json** (이지혜): 백엔드 개발자 - Node.js, JavaScript 중심
-- **member3.json** (성기찬): 그냥 개발자 - Java, MySQL 중심
-- **member4.json** (박수지): 백엔드 개발자 - JavaScript, Node.js 모두
-- **member5.json** (박영수): 사용자 경험을 그리는 개발자 - HTML, CSS, JavaScript 중심
+- **Bae_Kanghyeok.json** (배강혁): 데이터 분석가 - React, JavaScript 중심
+- **jihye.json** (이지혜): 백엔드 개발자 - Node.js, JavaScript 중심
+- **kichan.json** (성기찬): 그냥 개발자 - Java, MySQL 중심
+- **suji.json** (박수지): 백엔드 개발자 - JavaScript, Node.js 모두
+- **young.json** (박영수): 사용자 경험을 그리는 개발자 - HTML, CSS, JavaScript 중심
