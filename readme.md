@@ -3,7 +3,7 @@
 Git 커밋 협업을 통한 팀원 소개 페이지 프로젝트입니다.
 충돌 테스트 하기
 
-![main image](image/main_old.png)
+![main image](image/main.png)
 
 ```bash
 // 팀장은 각 절차 전에 필요한 사항들을 사전에 준비하고 예회상황을 체크한다
