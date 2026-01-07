@@ -25,8 +25,8 @@ Git 커밋 협업을 통한 팀원 소개 페이지 프로젝트입니다.
 ```
 
 ### 템플릿별 역할 안내
-- **member1.json** (김개발): 프론트엔드 개발자 - React, TypeScript 중심
-- **member2.json** (이백엔드): 백엔드 개발자 - Node.js, Python 중심
-- **member3.json** (박디자인): UI/UX 디자이너 - Figma, Adobe XD 중심
-- **member4.json** (최풀스택): 풀스택 개발자 - React, Node.js 모두
-- **member5.json** (정데이터): 데이터 분석가 - Python, SQL, 머신러닝 중심
+- **member1.json** (배강혁): 데이터 분석가 - React, JavaScript 중심
+- **member2.json** (이지혜): 백엔드 개발자 - Node.js, JavaScript 중심
+- **member3.json** (성기찬): 그냥 개발자 - Java, MySQL 중심
+- **member4.json** (박수지): 백엔드 개발자 - JavaScript, Node.js 모두
+- **member5.json** (박영수): 사용자 경험을 그리는 개발자 - HTML, CSS, JavaScript 중심
