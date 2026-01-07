@@ -16,14 +16,29 @@
   },
   "strengths": [
     "성실함",
-    "책임감",
+    "책임감"
   ],
   "skills": [
-    { "name": "HTML", "progress": 3 },
-    { "name": "CSS", "progress": 10 },
-    { "name": "JavaScript", "progress": 15 },
-    { "name": "React", "progress": 0 },
-    { "name": "Node.js", "progress": 0 }
+    {
+      "name": "HTML",
+      "progress": 3
+    },
+    {
+      "name": "CSS",
+      "progress": 10
+    },
+    {
+      "name": "JavaScript",
+      "progress": 15
+    },
+    {
+      "name": "React",
+      "progress": 0
+    },
+    {
+      "name": "Node.js",
+      "progress": 0
+    }
   ],
   "licenses": [
     "MOS Master",
@@ -41,7 +56,6 @@
     "커피바리스타2급"
   ],
   "education": [
-
     {
       "name": "스파르타 대학교",
       "period": "2011.03.02 ~ 2017.02.20",
@@ -55,12 +69,7 @@
       "company": "문화재예방관리센터",
       "term": "",
       "team": "행정팀",
-      "task": "사무직",
-
-      }
-    }
-  ],
-
+      "task": "사무직"
     }
   ]
 }
